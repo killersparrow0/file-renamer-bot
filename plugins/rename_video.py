@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Ns_AnoNymouS 
-
+# (c) tom_jerry_m
 # the logging things
 import logging
 logging.basicConfig(level=logging.DEBUG,
