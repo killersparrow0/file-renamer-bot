@@ -8,10 +8,10 @@
     "source",
     "Rename"
   ],
-  "Dev": "https://telegram.dog/tom_jerry_m",
-  "website": "https://github.com/Killersparrow0/file-renamer-bot",
-  "repository": "https://github.com/killersparrow0/file-renamer-bot",
-  "logo": "https://telegra.ph/file/c24117c2fbeb4daff56bb.jpg ",
+  "success_url": "https://telegram.dog/AnyDLBot",
+  "website": "https://github.com/SpEcHiDe/AnyDLBot",
+  "repository": "https://github.com/erichdanikeninfo/TG-Rename-Bot",
+  "logo": "https://telegra.ph/file/681227bece69de877e442.jpg",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -22,8 +22,8 @@
       "value": ""
     },
     "USER_NAME": {
-      "description": "Your user name like @tom_jerry_m",
-      "value": "@tom_jerry_m"
+      "description": "Your user name like @Ns_AnoNymouS",
+      "value": "@Ns_AnoNymouS"
     },
     "CHAT_BASE_TOKEN": {
       "description": "Your chat base token, as a string.",
@@ -39,7 +39,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": "1686223760"
+      "value": "1337144652"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
