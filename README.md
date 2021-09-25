@@ -1,5 +1,5 @@
 # FILE RENAMER BOT
-## Rename Bot - Clone of  [Renamer⚡](https://t.me/renamer_Ns_bot)
+## Rename Bot [Renamer⚡](https://t.me/Mf_file_renamer_bot)
 ---
 
 An Open Source Rename Telegram RoBot
