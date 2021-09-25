@@ -1,4 +1,4 @@
-# TG-RENAMER-BOT
+# FILE RENAMER BOT
 ## Rename Bot - Clone of  [Renamer⚡](https://t.me/renamer_Ns_bot)
 ---
 
@@ -12,7 +12,7 @@ An Open Source Rename Telegram RoBot
 
 ### You can tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/killersparrow0/file-renamer-bot/tree/master)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/killersparrow0/file-renamer-bot)
 
 ## Available BotFather commands
 ```
